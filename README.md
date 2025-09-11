@@ -8,3 +8,9 @@
 
 ### 4. Hackerrank 1 Month Preparation Kit
 
+### 5. Hackerrank Software Engineer Prep Kit
+
+### 6. Leetcode SQL 50
+
+### 7. Leetcode  Advanced SQL 50
+
