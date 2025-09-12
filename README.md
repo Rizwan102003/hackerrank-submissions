@@ -1,6 +1,6 @@
 ## Hackerrank :
 
-### 1. Project Euler+
+### 1. Project Euler+ (949)
 
 ### 2. Hackerrank 3 Months Preparation Kit
 
@@ -13,4 +13,27 @@
 ### 6. Leetcode SQL 50
 
 ### 7. Leetcode  Advanced SQL 50
+
+### 8. Rosalind 
+    ├── Python Village [x]
+    ├── Algorithmic Heights
+    ├── Bioinformatics Armory
+    ├── Bioinformatics Stronghold
+    ├── Bioinformatics Textbook Track
+    ├── Alignment
+    ├── Combinatorics
+    ├── Computational Mass Spectrometry
+    ├── Divide-and-conquer
+    ├── Dynamic Programming
+    ├── Genome Assembly
+    ├── Genome Rearrangements
+    ├── Graph Algorithms
+    ├── Graphs
+    ├── Heredity
+    ├── Phylogeny
+    ├── Population Dynamics
+    ├── Probability
+    ├── Set Theory
+    ├── Sorting
+    └── String Algorithms
 
