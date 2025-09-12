@@ -15,25 +15,25 @@
 ### 7. Leetcode  Advanced SQL 50
 
 ### 8. Rosalind 
-    ├── [x] Python Village 
-    ├── Algorithmic Heights
-    ├── Bioinformatics Armory
-    ├── Bioinformatics Stronghold
-    ├── Bioinformatics Textbook Track
-    ├── Alignment
-    ├── Combinatorics
-    ├── Computational Mass Spectrometry
-    ├── Divide-and-conquer
-    ├── Dynamic Programming
-    ├── Genome Assembly
-    ├── Genome Rearrangements
-    ├── Graph Algorithms
-    ├── Graphs
-    ├── Heredity
-    ├── Phylogeny
-    ├── Population Dynamics
-    ├── Probability
-    ├── Set Theory
-    ├── Sorting
-    └── String Algorithms
+    - [x] Python Village
+    - Algorithmic Heights
+    - Bioinformatics Armory
+    - Bioinformatics Stronghold
+    - Bioinformatics Textbook Track
+    - Alignment
+    - Combinatorics
+    - Computational Mass Spectrometry
+    - Divide-and-conquer
+    - Dynamic Programming
+    - Genome Assembly
+    - Genome Rearrangements
+    - Graph Algorithms
+    - Graphs
+    - Heredity
+    - Phylogeny
+    - Population Dynamics
+    - Probability
+    - Set Theory
+    - Sorting
+    - String Algorithms
 
