@@ -15,7 +15,7 @@
 ### 7. Leetcode  Advanced SQL 50
 
 ### 8. Rosalind 
-    ├── Python Village [x]
+    ├── [x] Python Village 
     ├── Algorithmic Heights
     ├── Bioinformatics Armory
     ├── Bioinformatics Stronghold
